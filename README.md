@@ -9,9 +9,8 @@
 4.  **分享设置** ：分享给好友和群聊，生成二维码海报，嵌入到公众号等等
 5.  **结果统计** ：排行名单，导出投票结果Excel
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
-![输入图片说明](demo/CC%E6%8A%95%E7%A5%A8%20(2).gif)
+![image](https://user-images.githubusercontent.com/110797923/183359976-ec228fb9-6cef-4927-b7cd-f56d43344cd5.png)
+![image](https://user-images.githubusercontent.com/110797923/183359996-010fab8d-e96b-4f8a-8002-dd5d9e46286f.png)
 
 
 ## 技术运用
@@ -27,13 +26,12 @@
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
 
- ![输入图片说明](demo/author-base.png)
-
+![image](https://user-images.githubusercontent.com/110797923/183360046-d6ead87e-36e1-4b2a-b878-ce16bc9d9e58.png)
 
 
 ## 演示 
  
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/110797923/183360031-057f5f72-3ff0-4e49-a56f-5b0b2540cbfa.png)
 ## 安装
 
 - 安装手册见源码包里的word文档
@@ -42,32 +40,40 @@
 
 
 ## 截 图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/2%E5%8A%A8%E6%80%81%E5%88%97%E8%A1%A8.png)
-![输入图片说明](demo/3%E6%8A%95%E7%A5%A8%E5%88%97%E8%A1%A8.png)
- ![输入图片说明](demo/4%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E5%8E%A8%E5%B8%88.png)
-![输入图片说明](demo/5%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E7%88%B6%E4%BA%B2%E8%8A%82.png)
-![输入图片说明](demo/6%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E5%8D%81%E4%BD%B3%E9%9D%92%E5%B9%B4.png)
-![输入图片说明](demo/7%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E6%A0%A1%E5%9B%AD%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B.png)
-![输入图片说明](demo/8%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E6%95%99%E5%B8%88%E8%8A%82.png)
-![输入图片说明](demo/9%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E5%A5%B3%E7%A5%9E%E8%8A%82.png)
-![输入图片说明](demo/10%E6%8A%95%E7%A5%A8%E8%AF%A6%E6%83%85-%E5%B0%91%E5%84%BF%E6%89%8D%E8%89%BA.png)
+ 
+![image](https://user-images.githubusercontent.com/110797923/183360065-a0dc1bbc-1f2d-48e6-8e8e-63e3a73dfb16.png)
+![image](https://user-images.githubusercontent.com/110797923/183360082-0c4063cf-7f12-466d-bca6-52a46812c15b.png)
+![image](https://user-images.githubusercontent.com/110797923/183360093-f95e55c1-dd98-4dc2-af8b-8deedc444d25.png)
+![image](https://user-images.githubusercontent.com/110797923/183360099-474c1251-16a2-459d-910d-fdf9da971c37.png)
+![image](https://user-images.githubusercontent.com/110797923/183360113-1cc5acb7-28bc-4f91-8505-684587a4997d.png)
+![image](https://user-images.githubusercontent.com/110797923/183360120-50ab345b-c386-4a1e-8d3d-18097751b0f8.png)
+![image](https://user-images.githubusercontent.com/110797923/183360130-b7cf76c4-771d-4ec7-b595-7f2b9ff4bbb3.png)
+![image](https://user-images.githubusercontent.com/110797923/183360139-e34b2e19-d77e-419f-8413-8aa14aa34f6d.png)
+![image](https://user-images.githubusercontent.com/110797923/183360145-8f73eb40-dbb4-4ddc-801c-b662668b1e23.png)
+![image](https://user-images.githubusercontent.com/110797923/183360150-540ed5e6-e53d-4752-a72d-de998623c1a6.png)
 
-![输入图片说明](demo/11%E6%8A%95%E7%A5%A8%E6%8E%92%E8%A1%8C.png)
-![输入图片说明](demo/12%E6%8A%95%E7%A5%A8%E5%88%86%E4%BA%AB.png)
-![输入图片说明](demo/13%E6%8A%95%E7%A5%A8%E5%88%86%E4%BA%AB2.png)
-![输入图片说明](demo/13%E9%80%89%E9%A1%B9%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/14%E9%80%89%E9%A1%B9%E5%88%86%E4%BA%AB.png)
-![输入图片说明](demo/15%E6%88%91%E7%9A%84.png)
+![image](https://user-images.githubusercontent.com/110797923/183360159-1f86b1da-f561-4cef-8236-e03d8bd92744.png)
+![image](https://user-images.githubusercontent.com/110797923/183360168-c5e49b02-e893-4660-a82e-fba0cb7a19e4.png)
+![image](https://user-images.githubusercontent.com/110797923/183360179-e2c34778-ba46-488b-8123-f3617fe1709f.png)
+![image](https://user-images.githubusercontent.com/110797923/183360190-415d9dff-a301-4bb6-8175-0d3d0b6967fd.png)
+![image](https://user-images.githubusercontent.com/110797923/183360201-4c5dea6c-a3cd-42dc-b686-5ce24a3f1ef6.png)
+![image](https://user-images.githubusercontent.com/110797923/183360209-53035267-faf5-42a5-9204-227f1c7676d1.png)
+
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E5%88%97%E8%A1%A8.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C.png)
-![输入图片说明](demo/19%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/20%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E7%8A%B6%E6%80%81%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/21%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E6%9B%B4%E5%A4%9A%E6%93%8D%E4%BD%9C.png)
-![输入图片说明](demo/22%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E5%90%84%E7%A7%8D%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%88%9B%E5%BB%BA.png)
-![输入图片说明](demo/23%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E4%B8%BB%E9%A2%98%E8%89%B2%E8%B0%83%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/24%E5%90%8E%E5%8F%B0-%E6%8A%95%E7%A5%A8%E9%80%89%E9%A1%B9%E8%AE%BE%E7%BD%AE.png)
+![image](https://user-images.githubusercontent.com/110797923/183360229-fd5768b7-ab6f-499d-8141-a4cf7a92625b.png)
+![image](https://user-images.githubusercontent.com/110797923/183360254-6cec9209-c9c4-481b-ae7b-149ba594db78.png)
+![image](https://user-images.githubusercontent.com/110797923/183360270-1afd990d-5b7a-4932-8842-72e874d83481.png)
+![image](https://user-images.githubusercontent.com/110797923/183360279-7c40f7f9-5766-4b28-abc6-cc65cc32fb9b.png)
+![image](https://user-images.githubusercontent.com/110797923/183360288-54f59877-fe34-40f3-93de-f3c923eae1ee.png)
+![image](https://user-images.githubusercontent.com/110797923/183360298-455b1c26-f692-4f1f-8603-c7d9b2172b21.png)
+![image](https://user-images.githubusercontent.com/110797923/183360310-8723defd-9aac-42f1-926c-1f78843aa0e2.png)
+![image](https://user-images.githubusercontent.com/110797923/183360331-3a1d11f8-4130-4fb6-8ec8-fa019a3fd82a.png)
+![image](https://user-images.githubusercontent.com/110797923/183360339-21131499-e8f6-4a2d-9f65-f0281a571d6e.png)
+
+
+
+
+
+
